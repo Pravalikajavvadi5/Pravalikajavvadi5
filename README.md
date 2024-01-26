@@ -1,7 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Pravalika!</h1>
+<!--dribbleimage-->
+<img align="right" alt="Coding" height="250" width="350" src="https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif">
 
-<!--
-**Pravalikajavvadi5/Pravalikajavvadi5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
