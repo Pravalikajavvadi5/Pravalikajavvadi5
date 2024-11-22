@@ -4,7 +4,7 @@
 <img width=50% " src="https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif" alt="GIF here" /></p>
 
 
-- 🤝 I’m currently working as a **Research Associate 3** at Pennington Biomedical Research Center
+- 🤝 I’m currently working as a **Research Associate 3** at [**Pennington Biomedical Research Center**](https://www.pbrc.edu/)
   
 - 💻 Previously worked as a Computational Biology-Data Science Co-op at [**Omega Therapeutics**](https://omegatherapeutics.com/)
   
