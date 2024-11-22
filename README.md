@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Pravalika!</h1>
 <!--dribbleimage-->
 <p float="middle" align="middle">
-<img width=50% " src="https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif" alt="GIF here" /></p>
+<img width=50% " src="https://github.com/amoolya1199/amoolya1199/blob/main/image_processing20201015-26328-2ovoon.gif" alt="GIF here" /></p>
 
 
 - 🤝 I’m currently working as a **Research Associate 3** at [**Pennington Biomedical Research Center**](https://www.pbrc.edu/)
