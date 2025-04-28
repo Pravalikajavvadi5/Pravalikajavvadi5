@@ -14,7 +14,7 @@
   
 - 💻 Experienced in bioinformatics programming, computational biology, data analytics and machine learning
   
-- 💬 Ask me about **Epigenomics**
+- 💬 Ask me about **Genomics**, **Proteomics** & **Metabolomics**
   
 - 📫 How to reach me: javvadhi.p@northeastern.edu
   
